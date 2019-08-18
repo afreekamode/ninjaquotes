@@ -1,0 +1,20 @@
+{
+  "name": "slackbotjoke",
+  "version": "1.0.0",
+  "description": "A simple Slackbot that displays random jokes and inspiring techie quotes for developers.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/afreekamode/ninjaquotes"
+  },
+  "author": "Sikiru SHittu",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "dotenv": "^8.0.0",
+    "slackbots": "^1.2.0"
+  }
+}
